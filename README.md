@@ -1,2 +1,2 @@
 # -RGB-
-实现三色RGB多种闪烁模式，多种颜色的通用函数库
+general RGB-LED driver for single-chip
